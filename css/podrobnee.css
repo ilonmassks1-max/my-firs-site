@@ -1,0 +1,250 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: clamp(12px, 1.2vw, 25px);
+    /* задаю плавающий размер шрифта: самый маленький 12px, самый стандартный для всего 1.2vw, и не больше 25px */
+}
+
+
+.wrap_podrobno {
+    min-height: 100vh;
+
+    background: url(../img_podrobnee/pisk.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.wrap_podrobno-nesv{
+     min-height: 100vh;
+
+    background: url(../img/nesvig_doc.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.wrap_podrobno-chapskie{
+
+     min-height: 100vh;
+
+    background: url(../img_podrobnee/chapskie.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.wrap_podrobno-budslav{
+     min-height: 100vh;
+
+    background: url(../img_podrobnee/budslav2.jpeg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+#video,
+#map {
+    width: 55vw;
+    height: 45vh;
+    border-radius: 1vw;
+    box-shadow: 0 0 15px 2px black;
+    margin: 0 auto;
+    margin-bottom: 5vh!important;
+
+}
+
+.video_div {
+    width: 55vw;
+    height: 55vh;
+    margin: 0 auto;
+
+}
+
+.podrobno_button{
+    height: 7vh!important;
+}
+.wrap_podrobno-kozel{
+
+     min-height: 100vh;
+
+    background: url(../img/kozel\ glav.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.wrap_podrobno-rum{
+
+     min-height: 100vh;
+
+    background: url(../img/roma\ fon.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.wrap_podrobno-vishya{
+
+     min-height: 100vh;
+
+    background: url(../img/visnaaa.webp);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.wrap_podrobno-krevo{
+
+     min-height: 100vh;
+
+    background: url(../img/krevo\ fon.webp);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.wrap_podrobno-mir{
+
+     min-height: 100vh;
+
+    background: url(../img/fotoMir.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.wrap_podrobno-golsh{
+
+     min-height: 100vh;
+
+    background: url(../img/golsh\ fon.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.wrap_podrobno-lida{
+
+     min-height: 100vh;
+
+    background: url(../img/lida\ vic.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.wrap_podrobno-tiser{
+
+     min-height: 100vh;
+
+    background: url(../img/tiser\ fon.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.wrap_podrobno-spasi{
+
+     min-height: 100vh;
+
+    background: url(../img/spasi\ fon.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.wrap_podrobno-sofia{
+
+     min-height: 100vh;
+
+    background: url(../img/sofia\ fon.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.wrap_podrobno-smola{
+
+     min-height: 100vh;
+
+    background: url(../img/SMOLA\ FON.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.wrap_podrobno-bihov{
+
+     min-height: 100vh;
+
+    background: url(../img/bihov\ fon.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.wrap_podrobno-vesa{
+
+     min-height: 100vh;
+
+    background: url(../img/visa\ glav\ 2.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.wrap_podrobno-potop{
+
+     min-height: 100vh;
+
+    background: url(../img/potop\ fon.webp);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.wrap_podrobno-bulka{
+
+     min-height: 100vh;
+
+    background: url(../img/bulks\ fon.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.wrap_podrobno-krepost{
+
+     min-height: 100vh;
+
+    background: url(../img/brest\ fon.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.wrap_podrobno-ruga{
+
+     min-height: 100vh;
+
+    background: url(../img/ruga\ fon.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.wrap_podrobno-bobr{
+
+     min-height: 100vh;
+
+    background: url(../img/bobr\ fon.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.wrap_podrobno-kossovo{
+
+     min-height: 100vh;
+
+    background: url(../img/kos\ fon.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.wrap_podrobno-got{
+
+     min-height: 100vh;
+
+    background: url(../img/got\ fon.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
