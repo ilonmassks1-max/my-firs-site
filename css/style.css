@@ -1178,6 +1178,10 @@ h1 {
 
 
 }
+
+
+
+
 @media (max-width: 768px) {
     .wrap-golsh_test,
     .wrap-mir_test,
@@ -1203,10 +1207,14 @@ h1 {
     .wrap-visa_test,
     .wrap-kos_test,
     .wrap-brest_test {
-       .wrap-brest_test {
-        background-attachment: scroll; /* Убираем фиксацию */
+    
+        position: fixed;
+        bottom: 0;
+        left: 0;
+        width: 100vw;
+        height: 100vh;
+      
         background-size: cover;        /* Картинка растягивается на весь блок */
         background-position: center;   /* Центрируем картинку */
     }
     }
-}
