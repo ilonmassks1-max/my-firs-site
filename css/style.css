@@ -1207,12 +1207,8 @@ h1 {
     .wrap-kos_test,
     .wrap-brest_test {
     
-        position: fixed;
-        bottom: 0;
-        left: 0;
-        width: 100vw;
-        height: 100vh;
       
+        background-attachment: scroll; /* Убираем фиксацию */
         background-size: cover;        /* Картинка растягивается на весь блок */
         background-position: center;   /* Центрируем картинку */
     }
