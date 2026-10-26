@@ -1084,11 +1084,10 @@ h1 {
     }
 #nazad {
     width: 35vw;
+            font-size: 2em;
+        text-align: center;
 }
 
-/* .standart_block{
-    height: 50vh;
-} */
 
 }
 
