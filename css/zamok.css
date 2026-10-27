@@ -236,7 +236,7 @@ body {
         justify-content: center;
         background-color: rgb(247, 245, 245);
 
-        width: 23vw;
+        width: 23.5vw;
         height: 5vh;
         border-radius: 4px;
         box-shadow: 0 0 15px 1px rgb(63, 62, 62);
@@ -253,7 +253,7 @@ body {
     .a-interactiv {
         text-decoration: none;
         color: rgb(3, 0, 0);
-        font-size: 0.9em;
+        font-size: 0.8em;
         display: flex;
         width: 23vw;
         height: 5vh;
