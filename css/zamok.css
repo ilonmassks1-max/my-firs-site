@@ -253,7 +253,7 @@ body {
     .a-interactiv {
         text-decoration: none;
         color: rgb(3, 0, 0);
-        font-size: 1em;
+        font-size: 0.9em;
         display: flex;
         width: 23vw;
         height: 5vh;
