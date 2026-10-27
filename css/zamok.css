@@ -314,6 +314,83 @@ body {
 
 }
 
+@media (max-width: 376px){
+    
+.knopki {
+    font-size: 1em;
+}
+
+ .a-interactiv {
+        
+        font-size: 1em;
+        
+    }
+
+     .mir-h1 {font-size: 1.5em;}
+      .mirinfo{
+        font-size: 0.7em;
+     }
+
+}
+
+@media (max-width: 360px){
+    
+.knopki {
+    font-size: 0.9em;
+}
+
+ .a-interactiv {
+        
+        font-size: 0.9em;
+        
+    }
+
+     .mir-h1 {font-size: 1.5em;}
+     .mirinfo{
+        font-size: 0.7em;
+     }
+
+}
+
+@media (max-width: 300px){
+    
+.knopki {
+    font-size: 0.8em;
+}
+
+ .a-interactiv {
+        
+        font-size: 0.8em;
+        
+    }
+
+     .mir-h1 {font-size: 1.5em;}
+     .mirinfo{
+        font-size: 0.6em;
+     }
+
+}
+
+
+@media (max-width: 225px){
+    
+.knopki {
+    font-size: 0.7em;
+}
+
+ .a-interactiv {
+        
+        font-size: 0.7em;
+        
+    }
+
+     .mir-h1 {font-size: 1.5em;}
+     .mirinfo{
+        font-size: 0.6em;
+     }
+
+}
+
 /* -------------------------------------
 -------------------------------------
 ПЕРЕВЁРНУТЫЕ ТЕЛЕФОНЫ
